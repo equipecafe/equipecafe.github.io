@@ -18,6 +18,7 @@ h1 {
 }
 #titulo {
   width: 50%;
+  font-size: 300%;
   margin: 0 auto;
   display: table;
   padding: 10px;
