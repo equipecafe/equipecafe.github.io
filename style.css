@@ -18,6 +18,7 @@ h1 {
 }
 #titulo {
   width: 50%;
+  margin: 0 auto;
   display: block;
   padding: 10px;
   color: rgb(150, 20, 20);
