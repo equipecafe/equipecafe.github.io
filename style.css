@@ -70,16 +70,16 @@ img {
 }
 
 div {
-  width: 80%;
+  
   margin: 0 auto;
   padding: 0;
+  border-radius: 40px;
 }
 
 #projetos {
-  width: 80%;
+  
   background-color: #373956;
   border: 1px solid #FFFFFF;
-  border-radius: 40px;
   animation: brilho 4s ease-in-out infinite;
   margin-top: 30px;
   margin-bottom: 30px;
@@ -91,8 +91,6 @@ div {
 #inicio {
   background-color: rgb(180, 30, 30);
   border: 10px solid rgba(103, 0, 0, 1);
-  
-  border-radius: 40px;
   
 }
 
