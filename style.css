@@ -17,6 +17,7 @@ h1 {
   font-weight: bold;
 }
 #titulo {
+  width: 50%;
   display: inline-block;
   padding: 10px;
   color: rgb(150, 20, 20);
