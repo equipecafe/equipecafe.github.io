@@ -1,3 +1,7 @@
+
+* {
+  overview-x: hidden;
+}
 body {
   text-align: center;
   margin: 0;
