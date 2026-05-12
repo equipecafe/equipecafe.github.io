@@ -1,6 +1,4 @@
-*{
-  margin: 10px;
-}
+
 
 
 body {
@@ -132,39 +130,4 @@ div {
 button {
   padding: 20px;
   font-size: 40px;
-}
-#botton {
-  background-color: #3D4EFF;
-  border-radius: 15px;
-  color: #4D0101C7;
-  border: none;
-  box-shadow: 0 0 50px #8678FF;
-  animation: colorchange 10s ease-in-out infinite;
-}
-
-@keyframes colorchange {
-  0% {
-    background-color: #3D4EFF;
-    
-  }
-  20% {
-    background-color: #3DB6FF;
-    
-  }
-  40% {
-    background-color: #3DFF9D;
-    
-  }
-  60% {
-    background-color: #DBFF3D;
-    
-  }
-  80% {
-    background-color: #FF3D3D;
-    
-  }
-  100% {
-    background-color: #3D4EFF;
-    
-  }
 }
