@@ -69,13 +69,13 @@ img {
 }
 
 div {
-  width: 100%;
+  width: 80%;
   margin: 0 auto;
   padding: 0;
 }
 
 #projetos {
-  width: 100%;
+  width: 80%;
   background-color: #373956;
   border: 1px solid #FFFFFF;
   border-radius: 40px;
