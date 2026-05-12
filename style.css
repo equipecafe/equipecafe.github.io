@@ -17,7 +17,7 @@ h1 {
   font-weight: bold;
 }
 #titulo {
-  width: 50%;
+  width: fit-content;
   margin: 0 auto;
   display: block;
   padding: 10px;
