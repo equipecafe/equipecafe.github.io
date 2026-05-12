@@ -19,7 +19,7 @@ h1 {
 #titulo {
   width: fit-content;
   margin: 0 auto;
-  display: block;
+  display: table;
   padding: 10px;
   color: rgb(150, 20, 20);
   border: 5px solid rgba(103, 0, 0, 1);
