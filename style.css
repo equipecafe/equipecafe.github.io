@@ -54,18 +54,10 @@ p {
   box-shadow: 0 0 30px rgba(255, 125, 125, 1);
 }
 
-@media (max-width: 800px) {
-  img {
-    width: 80%; 
-  }
-}
 
 
-@media (min-width: 860px) {
-  img {
-    width: 60%; 
-  }
-}
+
+
 img {
   border: 5px solid mintcream;
   background-color: black;
@@ -74,13 +66,13 @@ img {
 }
 
 div {
-  width: 100%;
+  width: 80%;
   margin: 0px;
   padding: 50px;
 }
 
 #projetos {
-  width: 100%;
+  width: 80%;
   background-color: #373956;
   border: 1px solid #FFFFFF;
   border-radius: 40px;
