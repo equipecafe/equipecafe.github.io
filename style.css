@@ -140,7 +140,7 @@ button {
 
 #itchio {
   display: inline-block;
-  font-size: 100%;
+  font-size: 60px;
   width: 30%;
   height: 15%;
   margin: 10%;
@@ -151,10 +151,10 @@ button {
 }
 #gamejolt {
   display: inline-block;
-  font-size: 100%;
+  font-size: 60px;
   width: 30%;
   height: 15%;
-  margin: 10%;
+  margin: 5%;
   background-color: rgb(80, 255, 100);
   color: rgb(255, 255, 255)
   text-decoration: none;
