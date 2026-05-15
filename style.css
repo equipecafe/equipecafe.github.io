@@ -139,7 +139,7 @@ button {
 }
 
 #itchio {
-  display: flex;
+  display: inline-block;
   font-size: 60px;
   width: 40%;
   height: 20%;
@@ -151,7 +151,7 @@ button {
   
 }
 #gamejolt {
-  display: flex;
+  display: inline-block;
   font-size: 60px;
   width: 40%;
   height: 20%;
@@ -165,5 +165,5 @@ button {
 #links {
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: center;
 }
