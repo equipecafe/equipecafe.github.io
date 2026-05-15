@@ -148,7 +148,6 @@ button {
   color: rgb(255, 255, 255)
   text-decoration: none;
   border-radius: 40px;
-  align-itens: center;
 }
 #gamejolt {
   display: flex;
@@ -160,10 +159,9 @@ button {
   color: rgb(255, 255, 255)
   text-decoration: none;
   border-radius: 40px;
-  align-itens: center;
 }
 
 #links {
   display: flex;
-  align-itens: center;
+  align-items: center;
 }
