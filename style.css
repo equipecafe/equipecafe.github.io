@@ -148,6 +148,7 @@ button {
   color: rgb(255, 255, 255)
   text-decoration: none;
   border-radius: 40px;
+  
 }
 #gamejolt {
   display: flex;
@@ -164,4 +165,5 @@ button {
 #links {
   display: flex;
   align-items: center;
+  justify-content: space-evenly;
 }
