@@ -140,7 +140,6 @@ button {
 
 #itchio {
   display: flex;
-  gap: 10px;
   font-size: 60px;
   width: 30%;
   height: 15%;
@@ -162,4 +161,9 @@ button {
   text-decoration: none;
   border-radius: 40px;
   vertical-align: middle;
+}
+
+#links {
+  display: flex;
+  align-itens: center;
 }
