@@ -142,7 +142,7 @@ button {
   display: inline-block;
   font-size: 100%;
   width: 75%;
-  height: 25%;
+  height: fit-content;
   background-color: rgb(80, 100, 255);
   color: rgb(255, 255, 255)
   text-decoration: none;
@@ -153,7 +153,7 @@ button {
   display: inline-block;
   font-size: 100%;
   width: 75%;
-  height: 25%;
+  height: fit-content;
   background-color: rgb(80, 255, 100);
   color: rgb(255, 255, 255)
   text-decoration: none;
