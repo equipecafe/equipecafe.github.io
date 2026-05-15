@@ -149,3 +149,14 @@ button {
   text-decoration: none;
   border-radius: 40px;
 }
+#gamejolt {
+  display: inline-block;
+  font-size: 60px;
+  width: 30%;
+  height: 15%;
+  margin: 10%;
+  background-color: rgb(80, 255, 100);
+  color: rgb(255, 255, 255)
+  text-decoration: none;
+  border-radius: 40px;
+}
