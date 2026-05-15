@@ -149,7 +149,6 @@ button {
   text-decoration: none;
   border-radius: 40px;
   align-itens: center;
-  justify-content: center;
 }
 #gamejolt {
   display: flex;
@@ -162,7 +161,6 @@ button {
   text-decoration: none;
   border-radius: 40px;
   align-itens: center;
-  justify-content: center;
 }
 
 #links {
