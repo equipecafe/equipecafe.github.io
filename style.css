@@ -137,3 +137,10 @@ button {
   margin: 0 auto;
   padding: 0;
 }
+
+#itchio {
+  font-size: 60px;
+  width: 40%;
+  height: 20%;
+  background-color: rgb(80, 100, 255);
+  color: rgb(20, 30, 150)
