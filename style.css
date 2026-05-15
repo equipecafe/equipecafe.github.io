@@ -139,7 +139,8 @@ button {
 }
 
 #itchio {
-  display: inline-block;
+  display: flex;
+  gap: 10px;
   font-size: 60px;
   width: 30%;
   height: 15%;
@@ -151,7 +152,7 @@ button {
   vertical-align: middle;
 }
 #gamejolt {
-  display: inline-block;
+  display: flex;
   font-size: 60px;
   width: 30%;
   height: 15%;
