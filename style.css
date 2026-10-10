@@ -160,6 +160,18 @@ button {
   border-radius: 40px;
 }
 
+#youtube {
+  display: inline-block;
+  font-size: 250%;
+  width: 75%;
+  height: fit-content;
+  background-color: rgb(255, 100, 80);
+  color: rgb(255, 255, 255)
+  text-decoration: none;
+  border-radius: 40px;
+  
+}
+
 #links {
   display: flex;
   align-items: center;
