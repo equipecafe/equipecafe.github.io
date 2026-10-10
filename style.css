@@ -139,7 +139,7 @@ button {
 }
 
 #itchio {
-  display: inline-block;
+  display: flex;
   font-size: 250%;
   width: 75%;
   height: fit-content;
@@ -150,7 +150,7 @@ button {
   margin: 12px;
 }
 #gamejolt {
-  display: inline-block;
+  display: flex;
   font-size: 250%;
   width: 75%;
   height: fit-content;
@@ -162,7 +162,7 @@ button {
 }
 
 #youtube {
-  display: inline-block;
+  display: flex;
   font-size: 250%;
   width: 75%;
   height: fit-content;
