@@ -149,6 +149,7 @@ button {
   border-radius: 40px;
   margin: 12px;
   align-items: center;
+  text-align: center;
 }
 #gamejolt {
   display: flex;
@@ -161,6 +162,7 @@ button {
   border-radius: 40px;
   margin: 12px;
   align-items: center;
+  text-align: center;
 }
 
 #youtube {
@@ -174,6 +176,7 @@ button {
   border-radius: 40px;
   margin: 12px;
   align-items: center;
+  text-align: center;
 }
 
 #links {
