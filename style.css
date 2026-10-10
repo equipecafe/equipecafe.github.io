@@ -211,3 +211,9 @@ a {
   margin: 30px;
   color: rgb(255, 255, 255);
 }
+
+#youtubelink {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
