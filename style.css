@@ -144,7 +144,7 @@ button {
   width: 75%;
   height: fit-content;
   background-color: rgb(80, 100, 255);
-  color: rgb(255, 255, 255)
+  color: rgb(255, 255, 255);
   text-decoration: none;
   border-radius: 40px;
   margin: 12px;
@@ -155,7 +155,7 @@ button {
   width: 75%;
   height: fit-content;
   background-color: rgb(80, 255, 100);
-  color: rgb(255, 255, 255)
+  color: rgb(255, 255, 255);
   text-decoration: none;
   border-radius: 40px;
   margin: 12px;
@@ -167,7 +167,7 @@ button {
   width: 75%;
   height: fit-content;
   background-color: rgb(255, 100, 80);
-  color: rgb(255, 255, 255)
+  color: rgb(255, 255, 255);
   text-decoration: none;
   border-radius: 40px;
   margin: 12px;
@@ -188,4 +188,10 @@ button {
 
 a {
   text-decoration: none;
+}
+
+
+#gamejoltlogo {
+  margin: 12px;
+  color: rgb(255, 255, 255);
 }
