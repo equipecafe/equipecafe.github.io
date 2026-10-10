@@ -168,7 +168,7 @@ button {
 #youtube {
   display: flex;
   font-size: 250%;
-  width: 75%;
+  width: 50%;
   height: fit-content;
   background-color: rgb(255, 100, 80);
   color: rgb(255, 255, 255);
