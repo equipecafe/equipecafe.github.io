@@ -147,7 +147,7 @@ button {
   color: rgb(255, 255, 255)
   text-decoration: none;
   border-radius: 40px;
-  
+  margin: 12px;
 }
 #gamejolt {
   display: inline-block;
@@ -158,6 +158,7 @@ button {
   color: rgb(255, 255, 255)
   text-decoration: none;
   border-radius: 40px;
+  margin: 12px;
 }
 
 #youtube {
@@ -169,7 +170,7 @@ button {
   color: rgb(255, 255, 255)
   text-decoration: none;
   border-radius: 40px;
-  
+  margin: 12px;
 }
 
 #links {
